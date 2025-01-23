@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Srivignesh N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srivignesh N" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srivignesh-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srivignesh-n" height="30" width="40" /></a>
 <a href="https://kaggle.com/srivigneshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srivigneshn" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/SRIVIGNESH-N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SRIVIGNESH-N" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/srivignesh_cs22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srivignesh_cs22" height="30" width="40" /></a>
