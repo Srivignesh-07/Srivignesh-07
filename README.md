@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm SRIVIGNESH N</h1>
 <!--h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3-->
-
-
 <!--img src="https://github.com/user-attachments/assets/3ec40ab4-0379-4e94-9da2-e60056112ea0" width="500" height="500"-->
 <p align=center>
 <!--img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&size=40&color=%2324A500&height=67&width=1000&duration=3000&center=true&lines=%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%BC%F0%9F%85%BF%F0%9F%86%84%F0%9F%86%83%F0%9F%85%B4%F0%9F%86%81%20%F0%9F%86%82%F0%9F%85%B2%F0%9F%85%B8%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B2%F0%9F%85%B4%20%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B6%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%81"-->
