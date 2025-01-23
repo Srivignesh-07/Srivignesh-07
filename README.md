@@ -1,18 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm dhyaneshwaran</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Srivignesh</h1>
+<h3 align="center">COMPUTER SCIENCE ENGINEER from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1b2d6emYwM2NuNno2OTEyemE3NWF0OW43OXV0MzZ0ZjdpZTVrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhyanesh1&label=Profile%20views&color=0e75b6&style=flat" alt="dhyanesh1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Srivignesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="Sringnesh-07" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhyaneshwaran m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhyaneshwaran m" height="30" width="40" /></a>
-<a href="https://kaggle.com/dhyaneshwaran_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhyaneshwaran_m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhyaneshwarankmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhyaneshwarankmr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhyaneshwarankmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhyaneshwarankmr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Srivignesh N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Srivignesh N" height="30" width="40" /></a>
+<a href="https://kaggle.com/srivigneshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srivigneshn" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/SRIVIGNESH N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SRIVIGNESH N" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/srivignesh_cs22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srivignesh_cs22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
