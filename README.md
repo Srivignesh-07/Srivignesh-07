@@ -1,9 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">Hi 👋, I'm SRIVIGNESH N</h1>
 <!--h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3-->
 
-<h1 align="center">Hi 👋, I'm Tharun D V</h1>
-<!--h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3-->
 
 <!--img src="https://github.com/user-attachments/assets/3ec40ab4-0379-4e94-9da2-e60056112ea0" width="500" height="500"-->
 <p align=center>
